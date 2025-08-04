@@ -177,6 +177,16 @@ body {
     color:#111;
 }
 
+/* Responsive adjustment for iPhone SE and other small screens */
+@media (max-width: 400px) {
+  #banner h1 {
+    font-size: 32px;
+    line-height: 38px;
+    text-align: center; /* Optional: center the heading */
+    padding: 0 10px;     /* Optional: add padding to prevent edge overflow */
+    word-break: break-word; /* Optional: break long words */
+  }
+}
 
 /* Section Title and Subtitle */
 
