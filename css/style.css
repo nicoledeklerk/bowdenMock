@@ -353,7 +353,8 @@ section {
 }
 
 #logo img {
-    max-height: 22px;
+    height: 80px;
+    width: auto;
     vertical-align: middle;
     margin-right: 15px;
 }
