@@ -212,7 +212,7 @@ section {
 /* Targets all elements */
 
 [class*='col-'] {
-    float: left;
+    float: right;
     padding: 20px;
 }
 
